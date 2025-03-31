@@ -1,1 +1,5 @@
-# AquaSim
+# AquaSim：A Unity3D-Based Framework for Multimodal Underwater Simulation in Computer Vision Research
+
+AquaSim is an open-source, Unity3D-based framework designed to address the challenges of acquiring real-world underwater data for computer vision research. By integrating advanced 3D vision techniques with realistic underwater simulation, AquaSim facilitates the generation of large-scale, multimodal datasets encompassing RGB images, depth maps, normal maps, and precise camera pose information. The framework is built on a modular architecture, consisting of an underwater environment simulation module, a BlueROV control module, a camera simulation module, and a data output module. This design allows researchers to customize scenarios, simulate complex optical and physical effects, and accurately model underwater robot dynamics. AquaSim thus provides a flexible, scalable platform for the development and evaluation of underwater 3D vision algorithms and related applications.
+
+Code will be open source soon...
